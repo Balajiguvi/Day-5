@@ -65,7 +65,7 @@ console.log(anofun4([3,7,15,21,56,11]));
 
 //5) Return all the palindromes in an array
 
-(()=>{                                                                     //iif
+(()=>{                                                                   //iif
     var reversedName=[];
     var palindromeNames=[];  
     let anofun5=(function(array){
