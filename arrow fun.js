@@ -2,7 +2,7 @@
 console.log("answer for 1 ques");                                 
   var oddarray=[];
   let anofun=(array)=>{
-      for(let ele of array){                                //arrow func
+      for(let ele of array){                              //arrow func
           if(ele%2!==0)
           oddarray.push(ele);
       }
